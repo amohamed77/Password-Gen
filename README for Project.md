@@ -12,8 +12,8 @@ Criteria set for the random password:
 
  Link to Repository and Deployed Application:
 
- Repo: https://github.com/amohamed77/Password-Generator
- Deployed Application: https://amohamed77.github.io/Password-Generator/
+ Repo: https://github.com/amohamed77/Password-Gen/
+ Deployed Application: https://amohamed77.github.io/Password-Gen/
 
 
 
