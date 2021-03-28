@@ -64,7 +64,7 @@ if (confirmUpperCase) {
   console.log(passwordCharacters)
 
   // this randomizes characters for the array
-  var randomPassword = ""
+  var randomPassword = "";
   
   for (var i = 0; i < passwordLength; i++) {
     randomPassword = randomPassword + passwordCharacters[Math.floor(Math.random() * passwordCharacters.length)];
